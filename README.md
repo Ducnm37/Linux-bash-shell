@@ -1,1 +1,1 @@
-# Linux-bash-shell
+Đây là thư mục tìm hiểu về bash-shell (base).
