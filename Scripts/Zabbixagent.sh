@@ -4,7 +4,7 @@
 
 echo "Start installing"
 
-hostname = `uname -a`
+hostname = `uname -n`
 
 echo "Nhap IP Zabbix server"
 
